@@ -4983,7 +4983,7 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIC",KPOP
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ID: I Konser" tvg-logo="https://i.pinimg.com/236x/a5/7c/a0/a57ca0008fbdf1326ca3c5c3b89120f5.jpg" group-title="🔵MUSIK",i KONSER 
+#EXTINF:-1 tvg-name="ID: I Konser" tvg-logo="https://i.pinimg.com/236x/a5/7c/a0/a57ca0008fbdf1326ca3c5c3b89120f5.jpg" group-title="MUSIC",i KONSER 
 https://cdn09jtedge.indihometv.com/joss/130/ikonser/chunklist_w455504243_b944100_sleng.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/pl/main/mus/Ikonser.m3u8
 
@@ -4996,7 +4996,7 @@ https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/43/46/b5/4346b597fd6db69deb238787e79df0f6.jpg" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-#EXTINF:-1 tvg-name="ID: Prambors" tvg-logo="https://i.pinimg.com/236x/05/4c/56/054c5670cb44cda94f37d4e5df51cfdb.jpg" group-title="MUSIK",DANGDUT NAGASWARA
+#EXTINF:-1 tvg-name="ID: Prambors" tvg-logo="https://i.pinimg.com/236x/05/4c/56/054c5670cb44cda94f37d4e5df51cfdb.jpg" group-title="MUSIC",DANGDUT NAGASWARA
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/pl/main/mus/Prambors.m3u8
 
