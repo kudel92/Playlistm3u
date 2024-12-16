@@ -4975,7 +4975,7 @@ https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/2cS8N7R.png?v=1.0.0.1" group-title="MUSIC" tvg-id="MTVLive.uk" tvg-name="MTV Live", MTV Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/UaHtwO2.png?v=1.0.0.1" group-title="MUSC" tvg-id="INBC28000122W" tvg-name="9XM", 9X Music
+#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/UaHtwO2.png?v=1.0.0.1" group-title="MUSIC" tvg-id="INBC28000122W" tvg-name="9XM", 9X Music
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="MUSIC" tvg-id="Maleo Channel" tvg-name="Maleo Channel", Maleo Channel
