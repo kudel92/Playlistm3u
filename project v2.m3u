@@ -43,6 +43,12 @@ http://xtv.ooo:8080/30912088/60996054/350997.ts
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg", MNC TV+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg", MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -54,7 +60,13 @@ http://xtv.ooo:8080/30912088/60996054/350997.ts
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
 
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti  
+
+
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
