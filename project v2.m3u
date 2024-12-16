@@ -858,7 +858,10 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0/537.36
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-039/stream.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium607/index.m3u8
+
 
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://dl.dropbox.com/scl/fi/1bdns4ak4j9exgn1w2tln/Premier-hd-1.jpg?rlkey=t5ozhaqxn6y7c4pegdkqnnkib&st=n8zxbicd&dl=0" group-title="Sports", True Premier HD 1
