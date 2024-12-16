@@ -4580,8 +4580,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChann
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC43BbojK2XKgZDecvmWqbBA6qBnLAMgds6chszYJpDuAfbk8AzmjtHn1Br2x31smWeasS_Tl9-od0U_MlMauL_5q8kRPF3m5tiBHrBOmsSN_6mJB1KFYoYdH8qvaSbJTi3gqTRB6hID100X0VVJRtyPYki14BNJ7mO3q86WfELo0s5X762m1_DnqVXQFi/s340/dunia%20anak.png" group-title="KIDS", Dunia Anak
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VU2ZQbG.png?v=1.0.0.1" group-title="KIDS" tvg-id="5340" tvg-name="ANIPLUS HD", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/aniplus.m3u8
