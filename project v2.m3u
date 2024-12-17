@@ -3031,6 +3031,9 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #http://xtv.ooo:8080/user9940/9940user/350922
 #http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
 
+#EXTINF:-1 tvg-id="WAR.Asia" tvg-name="WARNER TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Warner.png" group-title="Movies",MY: WARNER TV (Asia)
+http://31.42.187.37:25461/watchpad13158/1234/104
+
 #EXTINF:-1 xui-id="39920" tvg-id="WarnerTV.MACAN" tvg-name="Warner Bros" tvg-logo="https://dl.dropbox.com/scl/fi/8987nj4z4g3qvb7xu4fde/warner.png?rlkey=aeh8fnm6qoklxo7shsld1v1rn&dl=0" group-title="Movies",Warner Tv (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
