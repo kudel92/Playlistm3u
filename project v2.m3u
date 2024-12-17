@@ -348,7 +348,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng
 #EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="Lokal HD",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=".https://iptv.urfan.web.id/logo/idtv.png?rlkey=6omortjoma23ee1bny9xxi76e&dl=0" group-title="Lokal HD", IDTV / Investor Daily Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png?rlkey=6omortjoma23ee1bny9xxi76e&dl=0" group-title="Lokal HD", IDTV / Investor Daily Tv
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wv2qoteaewga9oe/beritasatuworld.png" group-title="Lokal HD",BeritaSatu World
