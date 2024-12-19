@@ -873,9 +873,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg" tvg-id="49" , KIX HD
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg" tvg-id="133" , KBS Korea (Free Trial)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/87/b5/20/87b520b5043dfcc70fdb2023305629b4.jpg" group-title="DENS TV",KBS Korea (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg" tvg-id="134" , KBS World (Free Trial)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d2/08/c6/d208c69d100454d9136209d0a6e60099.jpg" group-title="DENS TV" tvg-id="KBSWorld.kr" tvg-name="KBS World HD", KBS World (Free Trial)
 http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/100.jpg" tvg-id="100" , K-PLUS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
