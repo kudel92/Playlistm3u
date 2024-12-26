@@ -46,8 +46,8 @@ http://xtv.ooo:8080/30912088/60996054/350997.ts
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg", MNC TV+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 
 
@@ -65,8 +65,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti  
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti  
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI 
@@ -90,8 +90,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ddc2zyaf9v8rs2ob84m1w/Gtv-hometv.png?rlkey=q53so172cfxige1f75de5d9hk&dl=0", GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ddc2zyaf9v8rs2ob84m1w/Gtv-hometv.png?rlkey=q53so172cfxige1f75de5d9hk&dl=0", GTV
@@ -107,8 +107,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Ref
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ebyeeqqv06mjc9dq5nqgu/inews.png?rlkey=4lxo4zt56f62endkql165nykl&dl=0", INEWS (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ebyeeqqv06mjc9dq5nqgu/inews.png?rlkey=4lxo4zt56f62endkql165nykl&dl=0", INEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -290,8 +290,8 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cs0EISERqqqnD9XaGyf8AFVDA0R
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTGRP:Lokal HD
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI
@@ -306,8 +306,8 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTGRP:Lokal HD
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV (R+)
@@ -320,8 +320,8 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="Lokal HD", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
