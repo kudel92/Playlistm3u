@@ -10335,7 +10335,7 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",netmax TV (Greece) [Not 24/7]
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-="WORLD•MOVIES",Romanza+ Africa (Somalia)
+#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Romanza+ Africa (Somalia)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
