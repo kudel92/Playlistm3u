@@ -743,9 +743,13 @@ http://opplex.tv:8080/3116580700/0700/350972
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 group-title="》NASIONAL" tvg-logo="https://i.pinimg.com/236x/4f/c2/a5/4fc2a559fcc621321b7a329e42ccef64.jpg", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+#EXTINF:-1 group-title="》NASIONAL" tvg-logo="https://i.pinimg.com/236x/4f/c2/a5/4fc2a559fcc621321b7a329e42ccef64.jpg", NET TV (dn)
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="》NASIONAL" tvg-logo="https://i.pinimg.com/236x/4f/c2/a5/4fc2a559fcc621321b7a329e42ccef64.jpg", NET TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
  
 #EXTINF:-1 group-title="》NASIONAL" tvg-logo="https://i.pinimg.com/236x/82/82/02/828202970e72c7c33bbb405a0bec4083.jpg",ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
