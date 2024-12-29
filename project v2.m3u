@@ -10247,18 +10247,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ec
 
 
 
+
+
+
+
 ===========WORLD•MOVIES=============
 
 
 
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Ace (KCKS-LD3★480p)
-https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Action Hollywood Movies(New Zealand)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Afriwood Blockbuster (Somalia) [Not 24/7]
-https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Afriwood Series (Somalia) [Not 24/7]
-https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",AVA Family (Iran)
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",AVA Series (Iran)
@@ -10271,88 +10270,42 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-sams
 https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Comet [2100-1500]
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Crackle
-https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Discover Film (UK)
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Dove Channel
 https://dovenow-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Dust (New Zealand)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Electric Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",FilmRise Sci-Fi (Finland)
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Filmstream (Australia)
-https://spi-filmstream-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Filmstream (Finland)
 https://spi-filmstream-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Filmstream (India)
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Filmstream (Netherlands)
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Filmstream (UK)
 https://spi-filmstream-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Folk TV (East★480p)
-https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Freebie TV [Not 24/7]
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Groovy (Greece★360p)
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Hi-YAH!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",K+ (Indonesia★576p)
-http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Korça＋ (Albania) [Not 24/7]
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Kuriakos Cine (Portugal) [Not 24/7]
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Latest TV [Not 24/7]
-https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",MHz Choice (Canada)
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Movie Sphere (UK)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",My Cinema (Indonesia)
-http://210.210.155.35:80/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",My Cinema Asia (Indonesia)
-http://210.210.155.35:80/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",My Cinema Europe (Switzerland★576p) [Indonesian Subtitles]
-http://210.210.155.35:80/uq2663/h/h18/index.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",My Family Channel (Indonesia)
-http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",MyTime Movie Network (Brazil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",MyTime Movie Network (UK)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",MyTime Movie Network (US)
-https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",netmax TV (Greece) [Not 24/7]
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Romanza+ Africa (Somalia)
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Sony Movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Sundance TV
-https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",The Archive
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us&already_redirected=true
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Toonami Aftermath Movies (540p)
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",Wu Tang Collection (English Dub)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",RedBox Comedy
-https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",RedBox Gravitas Movies
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",RedBox Rush
-https://rush-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",RedBox Shout! Factory TV
 https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",RedBox Spotlight
@@ -10361,10 +10314,6 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",XUMO Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",XUMO Classic TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",XUMO Crackle
-http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",XUMO Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",XUMO Gravitas Movies
@@ -10373,6 +10322,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="XXXXX"group-title="WORLD•MOVIES",XUMO Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+
+
+
+
+
 
 
 
