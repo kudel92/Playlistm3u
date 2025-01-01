@@ -937,13 +937,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/37.jpg" tvg-id="37" , TV5MONDE Style HD
 http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/127.jpg" tvg-id="127" , crema.tv
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo.png" tvg-id="127" , crema.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=crema.tv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/128.jpg" tvg-id="128" , Stingray Classica
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOo_NrfJP7r77b4bL2OBPBKgsruQTgdqd6ScrzAohJT8iqAQc1W2cXZs&s=10" tvg-id="128" , Stingray Classica
 http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Stingray_Classica|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/129.jpg" tvg-id="129" , Deluxe Lounge
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJKk1p4M1JaMXgOobCfbnoTuixzjFT1IpSAjEoL4R5aADPlthh3Ijs-Vj&s=10" tvg-id="129" , Deluxe Lounge
 http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Deluxe_Lounge|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg" tvg-id="130" , Dance TV
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRyz4ZIaZuiVshxc1CfPZ505TwjrI1GfcjuQ&s" tvg-id="130" , Dance TV
 http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS TV" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" tvg-id="60" , FIGHT SPORTS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
