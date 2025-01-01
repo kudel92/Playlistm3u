@@ -11737,14 +11737,14 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.m
 #EXTINF:-1  tvg-id="" group-title="MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/vl0ywb3wyem0gt9/maleo.png", MALEO TV 
 #https://alfa.kugo.id/playout/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/x3fvbmhvvrrswqb/densshowbiz.png", DENS SHOWBIZ
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXR3tWyjMof2E7dco13X4tPaDrlALkIna8s76R_RoQn60lqwNCEZdiWUR&s=10", DENS SHOWBIZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
 
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png", MTV Live (firstmedia)
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/301832
 
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png", MTV 90s (firstmedia)
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUO19jkpAyG3Ta2h_HJiV_Oc4xp5kIHqecDhmcIDuyntG5QUdRpJ0SyiY&s=10", MTV 90s (firstmedia)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png", MTV Yo!
@@ -11781,7 +11781,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropbox.com/s/b3r9hhyc28kbsim/images%20%289%29.jpeg", The Retro Channel
 #https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropboxusercontent.com/s/2ji6mqowjpov5g2/citradangdut.png", CITRA DANGDUT
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVc9TCoRQzRSNkZCmz_Kpn9QRjMC8rEUD3pmlPATwpQblqTwdaRP7xcw&s=10", CITRA DANGDUT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
@@ -11890,7 +11890,7 @@ https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="MUSIC" tvg-id="Maleo Channel" tvg-name="Maleo Channel", Maleo Channel
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIC",KPOP
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4C7r3OZumCOjGvUzs5nWKD6H3ptn75SWP0wmTy9Ttlc-yDYbpxGrH_t-&s=10" group-title="MUSIC",KPOP
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ID: I Konser" tvg-logo="https://i.pinimg.com/236x/a5/7c/a0/a57ca0008fbdf1326ca3c5c3b89120f5.jpg" group-title="MUSIC",i KONSER 
