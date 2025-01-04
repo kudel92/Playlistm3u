@@ -190,7 +190,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png", Discovery Asia
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnELUxptlfmQFNdZo5iLKW5cPwKiP882mc2g&usqp=CAU", Discovery Asia
 http://iptv12k.com:35461/654321/123456/2063
 
 
@@ -10269,6 +10269,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinem
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixEXFcwHgWqqP1BCq5yLjPQw5B6a17ID3ezQRESSh-t2nkSxTdYUvq0zTw7q9Q8UZQVDKhkTFPqnmypVW-eLq1kgUtZPptrrB27_IiAFsvkzL2YfRVwB_GqoM7ohwY5hr4tNWJUD-IDgH_xxqVJWDeOafw9NYKazA7KQ8VHHFB1C6ZiDNnyWS4Gcw8iQpg/s340/my_family_channel.png" group-title="Movies",MY FAMILY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movies",Blue Ant Extreme  
+http://iptv12k.com:35461/654321/123456/2052
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDTCYyD_Q-98JaXanU1JFA0ZLAAuDca6dEoGCVv7njnZ85JukDdt2sooSVwuB8U7kfEehCI5BwoRaorrRyd5Ihxh2S_mNzdoDu2xOGGy5oakwihp9BevgIF1nsCoqRi5B9dIgYx7kR1opRiu4bJffcb3kKcVrNkWweRsn1QUOWZEeaxtUMYF4QZr2-uJ79/s340/blackcinema.png",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
