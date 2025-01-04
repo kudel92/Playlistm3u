@@ -9830,7 +9830,11 @@ https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/w
 #https://bit.ly/3MdG0Yx
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/j3ayc5lmfchashj0x54kw/Animal-planet-hometv.jpg?rlkey=317d6q2qldjfeo39dw5l6118g&dl=0", Animal Planet
-https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+#https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/glgjqgnki5pe3d1mjjt9d/natgeo.png?rlkey=xm1rvamvno390ved9cbeiqay5&dl=0" , National Geograpic
 http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
