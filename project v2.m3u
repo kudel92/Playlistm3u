@@ -224,6 +224,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 
+
+
+
+
+
 =====Lokal HD=====
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -9931,9 +9936,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltr
 #http://iptvtree.net:8080/Isidorchait/ea940f8fd1/266984
 #https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png", Techstorm
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzu-4aS0QYxWTOFoPAkvR66e4w7SORTBr1t7LRHsNSGBmBkH7RFpJwZQ&s=10", Techstorm
 https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
 #https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/vnoqc48oiugscsyqh2txq/Stingray-Naturescape.jpeg?rlkey=czr4hias90uk2jogp7173smas&dl=0", STINGRAY NATURE SCAPE
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynaturescape.m3u8
@@ -10013,7 +10019,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="KNOWLEDGE",Discovery Asia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnELUxptlfmQFNdZo5iLKW5cPwKiP882mc2g&usqp=CAU" group-title="KNOWLEDGE",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
