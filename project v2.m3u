@@ -3112,7 +3112,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-040/stream.mpd
 
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8mm626r44yxacdmzl7lit/laligahypermotion.png?rlkey=9ecahr77so6qjh8rid0wkztue&st=i501uelt&dl=0" group-title="Sports", LaLiga TV HYPERMOTION 
-#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="SPORTS",LaLiga TV Hypermotion
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
