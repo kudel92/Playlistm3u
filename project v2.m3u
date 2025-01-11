@@ -2985,45 +2985,62 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 1 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 1 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 2 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 2 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 1 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 1 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 2 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 2 🇵🇹
+#E#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 3  
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 3 🇵🇹 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 4 
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 4 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd  
+
+#EXTINF:-1 tvg-id="DAZN 5" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 5 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd 
 
 
+#EXTINF:-1 tvg-id="DAZN 6" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 6 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd 
 
 #EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
@@ -3054,17 +3071,19 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
 
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://dl.dropbox.com/scl/fi/wh9k5vsgqua5mqr8hhcel/dazneleven1.png?rlkey=qq8ryu5m5kv1zcl1382fqs6uj&st=8q2n535u&dl=0" group-title="Sports" , DAZN ELEVEN PRO LEAGUE 1 à&#185;&#144;Â&#159;Â&#135;à&#184;&#147;à&#185;&#144;Â&#159;Â&#135;à&#184;&#145;
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://dl.dropbox.com/scl/fi/wh9k5vsgqua5mqr8hhcel/dazneleven1.png?rlkey=qq8ryu5m5kv1zcl1382fqs6uj&st=8q2n535u&dl=0" group-title="Sports" , DAZN ELEVEN PRO LEAGUE 1 🇳🇱
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-049/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-049/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://dl.dropbox.com/scl/fi/wh9k5vsgqua5mqr8hhcel/dazneleven1.png?rlkey=qq8ryu5m5kv1zcl1382fqs6uj&st=8q2n535u&dl=0" group-title="Sports" , DAZN ELEVEN PRO LEAGUE 1 à&#185;&#144;Â&#159;Â&#135;à&#184;&#139;à&#185;&#144;Â&#159;Â&#135;à&#184;&#151;
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://dl.dropbox.com/scl/fi/wh9k5vsgqua5mqr8hhcel/dazneleven1.png?rlkey=qq8ryu5m5kv1zcl1382fqs6uj&st=8q2n535u&dl=0" group-title="Sports" , DAZN ELEVEN PRO LEAGUE 1 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://dl.dropbox.com/scl/fi/51f9g259opncj1itpiezl/dazneleven2.png?rlkey=lclnyqdvb47hvnti52urp0fyr&st=3sxsmr0r&dl=0" group-title="Sports" , DAZN ELEVEN PRO LEAGUE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
