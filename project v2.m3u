@@ -3487,14 +3487,14 @@ http://extraott.com:80/live/3969424152/3723991250/194504.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WWE_TV.png?raw=true" group-title="Sports", WWE CHANNEL HD 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/8eg7b9rqtoi6i2798csxi/Wwe-hometv.jpg?rlkey=kj4jhr25es5j4k1tjgxityes2&dl=0" group-title="Sports", WWE CHANNEL HD 
 http://extraott.com:80/live/3969424152/3723991250/186845.m3u8 
 
 
-#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/WWE_TV.png?raw=true" group-title="Sports",WWE TV
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/8eg7b9rqtoi6i2798csxi/Wwe-hometv.jpg?rlkey=kj4jhr25es5j4k1tjgxityes2&dl=0" group-title="Sports",WWE TV
 https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="194.astro" tvg-name="MY WWE NETWORK" tvg-logo="http://kingtv.dynu.com/tvlogo/WWE.png" group-title="Sports", WWE NETWORK
+#EXTINF:-1 tvg-id="194.astro" tvg-name="MY WWE NETWORK" tvg-logo="https://dl.dropbox.com/scl/fi/8eg7b9rqtoi6i2798csxi/Wwe-hometv.jpg?rlkey=kj4jhr25es5j4k1tjgxityes2&dl=0" group-title="Sports", WWE NETWORK
 http://31.42.187.37:25461/watchpad13158/1234/88
 
 
