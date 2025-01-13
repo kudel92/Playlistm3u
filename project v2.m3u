@@ -845,6 +845,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 
 
 
+
+
 ==============YOUTUBE 24/7================
 
 
@@ -861,6 +863,9 @@ https://rocket-tv.online/youtube/yt.m3u8?id=9ibMPBTeyS8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tKSs8zN632vB1Bfhp2osJ1XG1d5BOaPb5g&usqp=CAU" tvg-name="LAGU INDONESIA COVER 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",LAGU INDONESIA COVER 2
 https://rocket-tv.online/youtube/yt.m3u8?id=MC7bYuU4RKM
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jKUnE0VK5Ts/hqdefault.jpg?v=6782d810" tvg-name="POP HITS BARAT" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",POP HITS SPOTIFY 
+https://rocket-tv.online/youtube/yt.m3u8?id=SjfKL-ZV7z8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oWW5TLrrbNo/hq720.jpg?v=667952ec&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYf3HBU6RNa5qWCJtg8IuPCbDXNA" tvg-name="NCS" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NCS
 https://rocket-tv.online/youtube/yt.m3u8?id=oWW5TLrrbNo
 
@@ -873,7 +878,7 @@ https://rocket-tv.online/youtube/yt.m3u8?id=WXZxjn7wysA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjXZbJNacIWUnJ9GxQwuHBEN0LFKHqhpls6jd6KIAt4ac40WlKjqSGOoc&s=10" tvg-name="NIGHTCORE 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NIGHTCORE 2
 https://rocket-tv.online/youtube/yt.m3u8?id=ueG3Ul8OhQY
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpYfgEu8XuuxfPYWw8bu6-DQENPV1ZJ-zMB5YIHrJz_apAxJ5iu6GBHE&s=10" tvg-name="ANIME SONG 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ANIME SONG 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpYfgEu8XuuxfPYWw8bu6-DQENPV1ZJ-zMB5YIHrJz_apAxJ5iu6GBHE&s=10" tvg-name="ANIME SONG" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ANIME SONG 
 https://rocket-tv.online/youtube/yt.m3u8?id=4FBW3mkdKOs
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLg9Nl4VKqnM9qjUTuQM4WnmsKUhvyUAXwydBpxU4tyXt3315tvUZ0c769&s=10" tvg-name="SADBOYS RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",SAD BOYS RADIO
@@ -918,6 +923,18 @@ https://rocket-tv.online/youtube/yt.m3u8?id=V7bIBUD1yDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cwq3AFyV044/maxresdefault.jpg" tvg-name="DNB RADIO 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DNB RADIO 1
 https://rocket-tv.online/youtube/yt.m3u8?id=Cwq3AFyV044
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzu0F8TRhCXR0TDekKgxa3d8Fs_esdxwDN9Q&usqp=CAU" tvg-name="BREAKBEAT DJ BIDDY" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT DJ BIDDY 
+https://rocket-tv.online/youtube/yt.m3u8?id=5TXGWp3W5ZM
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzu0F8TRhCXR0TDekKgxa3d8Fs_esdxwDN9Q&usqp=CAU" tvg-name="BREAKBEAT DJ BIDDY" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT DJ BIDDY 
+https://rocket-tv.online/youtube/yt.m3u8?id=L4Ks5Q6SbTA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzu0F8TRhCXR0TDekKgxa3d8Fs_esdxwDN9Q&usqp=CAU" tvg-name="BREAKBEAT DJ MITHA ANGEL" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT DJ MITHA ANGEL
+https://rocket-tv.online/youtube/yt.m3u8?id=AHO0prGlz0g
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT DJ NISA" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT DJ NISA
+https://rocket-tv.online/youtube/yt.m3u8?id=SN8VXuSEOqo
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 1
 https://rocket-tv.online/youtube/yt.m3u8?id=AHO0prGlz0g
 
@@ -927,21 +944,16 @@ https://rocket-tv.online/youtube/yt.m3u8?id=3gZZApCcuYc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 3" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 3
 https://rocket-tv.online/youtube/yt.m3u8?id=3QhTk9Yo8iU
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 5" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 5
-https://rocket-tv.online/youtube/yt.m3u8?id=5TXGWp3W5ZM
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 6" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 4" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 4
 https://rocket-tv.online/youtube/yt.m3u8?id=3gZZApCcuYc
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 5" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 5
 https://rocket-tv.online/youtube/yt.m3u8?id=Oi4ep7_E5fw
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 8" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 6" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 6
 https://rocket-tv.online/youtube/yt.m3u8?id=ja0Dt_jQ_7s
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 9" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv_MMMeau6nxwCg7BiSY8W-vAG1za1-xLQgDO_ElYM1j4KredxEF2zCg&s=10" tvg-name="BREAKBEAT 7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 7
 https://rocket-tv.online/youtube/yt.m3u8?id=IEyCjhVbfms
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_kq2ogFqLHX8YJQfQN8tkM6OagtcxvKyE4g&usqp=CAU" tvg-name="DANGDUT KOPLO 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DANGDUT KOPLO 1
@@ -966,6 +978,7 @@ https://rocket-tv.online/youtube/yt.m3u8?id=mTCwx0_PxjI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxAXbzYJLegwW1Msn8MJowj-RrANkg5wuOXxBa7QLdh-NmLYLToqMzEM&s=10" tvg-name="MURROTAL 4" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",MURROTAL 4
 https://rocket-tv.online/youtube/yt.m3u8?id=0lStmV1FgPI
+
 
 
 
