@@ -26,8 +26,8 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="Lokal Auto", INDOSIAR 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="Lokal Auto", INDOSIAR (i)
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", MOJI (dn)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -245,13 +245,17 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
-https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUKQS7EGPTsfVR5FSdmHxjV4/ts
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV (Backup)
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
 
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -259,16 +263,16 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
 #https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-#http://xtv.ooo:8080/Ijaaz123/aijaz321/350972
-http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
-
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
