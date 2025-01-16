@@ -12197,11 +12197,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelode
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/s/xo0en6522i1hkfi/Zoomoo.jpeg", ZooMoo
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsrQlGrj-J4vZhra5f7qaGXdybcYcKjyjCTgrijEy0rtHza6JYd99LE8&s=10", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/scl/fi/wl0r84q21tj6fz0bnob08/Cartoonito.jpeg?rlkey=f96hmbgjmjk720f2kisw7h9qy&dl=0", CARTOONITO
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1HfBY8X9Zudw5j5wq1ShKpMGBB3wvJ8_LIz1204Q8a0cDzX04oGqD4A&s=10", CARTOONITO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -12242,7 +12242,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VU2ZQbG.png?v=1.0.0.1" group-title="KIDS" tvg-id="5340" tvg-name="ANIPLUS HD", ANIPLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCK2xl84MhdsBOGmCxVbIURYThYtEldhMmMA&usqp=CAU" group-title="KIDS" tvg-id="5340" tvg-name="ANIPLUS HD", ANIPLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -12266,8 +12266,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/87osln4vozhf4p0/hiphiphoree.png" group-title="KIDS", Hip Hip Horee !
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298536
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/45wtw7y1b37vtph/images%20%281%29.jpeg" group-title="KIDS", NARUTO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqDFEZjc7xq5sNWISUT8RLyLcHH2ZNSu83g&usqp=CAU" group-title="KIDS", NARUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHBYmgbmE3FMeIp5drMLYuN5Sm3zfjeA1JCMD3GQ6tzc8dPbTmVtCtLZ3T&s=10" group-title="KIDS", ABC KIDS
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/abc-kids.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wre776h1hw6vfrg/bizkids.png" group-title="KIDS", Biznet Kids
 #http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -12322,7 +12328,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwor
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/cwqrnd23xzzt6vm/toongoogles.png" group-title="KIDS", TOON Goggles
 #https://tinyurl.com/TiviMe-ToonGoogles
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/s/vaar4is5vpsv38c/images%20%283%29.jpeg", PBS Kids  
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgcjbbc9JRiq746aCoVRtAuTvK4-fr3DNSiv7hWaYlAsNFYnniUFz02Uc&s=10", PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://dl.dropbox.com/s/o796kcnbazu2ba6/images%20%285%29.jpeg" group-title="KIDS", ABC Kids
@@ -12330,7 +12336,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bvmrxajdugm7ki4/images%20%284%29.jpeg" group-title="KIDS", Baby Shark
 #https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/at50kqs41ka7dp2/images%20%286%29.jpeg" group-title="KIDS",Spacetoon
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGr4qLX9n9tQ5ufbqmLElfxuPX8WF6Deh1Q&usqp=CAU" group-title="KIDS",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9mn355oqegtlee52pcwgy/Discokids.jpeg?rlkey=hswkgqoyr5no4n7xyh80kw30m&dl=0" group-title="KIDS", Discovery Kids
