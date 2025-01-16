@@ -12208,12 +12208,14 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-id="cartoonnetworkasia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-id="cartoonnetworkasia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",CARTOON NETWORK TURKEY 
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI5E1FqbqmDHa1M5ObJIKGNH0QDmY-7WC1EbcmoxYV1-c2qdTx50sj6NeARhNOjZbhLoIkn88aFiKkzJ7JrB2fT8x8VBjPY_9uWh5O2M5vvKBYguK0cZf0pC0kptYnms4LW92o6zOgwtqYJeZWIa012oRPcBXTiZHEQsyYmn0eSy2hM8dnypSAw1v6bg4V/s340/kids%20tv.jpeg", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12231,9 +12233,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChann
 #https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC43BbojK2XKgZDecvmWqbBA6qBnLAMgds6chszYJpDuAfbk8AzmjtHn1Br2x31smWeasS_Tl9-od0U_MlMauL_5q8kRPF3m5tiBHrBOmsSN_6mJB1KFYoYdH8qvaSbJTi3gqTRB6hID100X0VVJRtyPYki14BNJ7mO3q86WfELo0s5X762m1_DnqVXQFi/s340/dunia%20anak.png" group-title="KIDS", Dunia Anak
-https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VU2ZQbG.png?v=1.0.0.1" group-title="KIDS" tvg-id="5340" tvg-name="ANIPLUS HD", ANIPLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCK2xl84MhdsBOGmCxVbIURYThYtEldhMmMA&usqp=CAU" group-title="KIDS" tvg-id="5340" tvg-name="ANIPLUS HD", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/aniplus.m3u8
@@ -12250,18 +12253,20 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn4GU6jyOqVua68qebTCLItNbOuw3XxuH-3HzM3YnUvlpC8VNymIaxf49tHGWT5CwXjcQp0jQuTbXfWvq1YuHcbObl922Lrkam7NmhtWNXC47VfI3X8VP2xBLyy2RY2loh-xlHCISMlidid0OOVE9muHiTP7bBoVFFOyhQdEujnLS-v7aMiLCwjtfMJWIh/s340/disney%20channel.png" group-title="KIDS", DISNEY CHANNEL
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvR_jZj6fPq6h31TJGX4StKYgHyCNTrpD8pVt7RTOpW_ymxiMq0_-7f0bojzk3fflQi2nwJtXUt0njgm9dhHaYFPyerdqtzM5WfvOTsG6jOW322I3YC9u1oUzlmvlC8rmXzW7Dx3g2LfNu7283Z4sWHP536eWxK2MhnQlf7KtQCSEoTItNA6C6EUdA0eG5/s340/disney%20jr.png" group-title="KIDS", DISNEY Junior
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium652/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="KIDS", DISNEY XD
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/208
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUqWxsldBKDcqW1jKtocJhJON8NqF2oNTce0nWURdvi3DSLFtULNYtbvMx0NhivtzPELGx7QGBAgmkjTdFr648ESI1oLhfAnSoKmgSatcGRKNBC-6q6vFbOFk5Zc3M9Rf-lpuxmWMM7y8qnOnDE7eilHxF3evN9wiGCtq9uObGVbTowhaKI21DtvLs3XJ1/s340/horee.jpeg" group-title="KIDS", Horee !
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/87osln4vozhf4p0/hiphiphoree.png" group-title="KIDS", Hip Hip Horee !
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298536
