@@ -12337,7 +12337,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwor
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgcjbbc9JRiq746aCoVRtAuTvK4-fr3DNSiv7hWaYlAsNFYnniUFz02Uc&s=10", PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://dl.dropbox.com/s/o796kcnbazu2ba6/images%20%285%29.jpeg" group-title="KIDS", ABC Kids
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTzg7JIIYKIw1u8AxCw60iD0Mo3VPC9UzXw&usqp=CAU" group-title="KIDS", ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bvmrxajdugm7ki4/images%20%284%29.jpeg" group-title="KIDS", Baby Shark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
