@@ -251,7 +251,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV (Backup)
+#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV (Indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
@@ -260,14 +260,14 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
+#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Indihome)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
+#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Vip)
 #https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
