@@ -12230,7 +12230,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChann
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/xew6rxqf07ph17m/babytv.png" group-title="KIDS",Baby TV
-#https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC43BbojK2XKgZDecvmWqbBA6qBnLAMgds6chszYJpDuAfbk8AzmjtHn1Br2x31smWeasS_Tl9-od0U_MlMauL_5q8kRPF3m5tiBHrBOmsSN_6mJB1KFYoYdH8qvaSbJTi3gqTRB6hID100X0VVJRtyPYki14BNJ7mO3q86WfELo0s5X762m1_DnqVXQFi/s340/dunia%20anak.png" group-title="KIDS", Dunia Anak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -12239,7 +12239,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCK2xl84MhdsBOGmCxVbIURYThYtEldhMmMA&usqp=CAU" group-title="KIDS" tvg-id="5340" tvg-name="ANIPLUS HD", ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/aniplus.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/aniplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/c/ce/VTV_Indonesia_2023.svg.png/revision/latest?cb=20231121055604" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -12250,7 +12250,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn4GU6jyOqVua68qebTCLItNbOuw3XxuH-3HzM3YnUvlpC8VNymIaxf49tHGWT5CwXjcQp0jQuTbXfWvq1YuHcbObl922Lrkam7NmhtWNXC47VfI3X8VP2xBLyy2RY2loh-xlHCISMlidid0OOVE9muHiTP7bBoVFFOyhQdEujnLS-v7aMiLCwjtfMJWIh/s340/disney%20channel.png" group-title="KIDS", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -12282,7 +12282,7 @@ https://c.mjh.nz/abc-kids.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wre776h1hw6vfrg/bizkids.png" group-title="KIDS", Biznet Kids
-#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://dl.dropboxusercontent.com/s/msv8ugeifxi2c1f/happykids.png", Happy Kids
 #https://happykids-vizio.amagi.tv/playlist.m3u8
@@ -12297,7 +12297,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheOfficialLEGOChannel.us" tvg-name="The Official LEGO Channel" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/s1p232enjrz1hy0/lego.png" group-title="KIDS",LEGO Channel
-#https://legochannel-vizio.amagi.tv/playlist.m3u8
+https://legochannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pj0hb5whmh0o231/cocoro.png" group-title="KIDS", CocoRo
 
@@ -12340,7 +12340,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://dl.dropbox.com/s/o796kcnbazu2ba6/images%20%285%29.jpeg" group-title="KIDS", ABC Kids
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bvmrxajdugm7ki4/images%20%284%29.jpeg" group-title="KIDS", Baby Shark
-#https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGr4qLX9n9tQ5ufbqmLElfxuPX8WF6Deh1Q&usqp=CAU" group-title="KIDS",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
