@@ -13224,7 +13224,7 @@ https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHkO5cto6Dc7yCZaYo3nrRBucAX6soNNBiTA3HnZhU4TlLkT508vlYEnHDtrUM0nqLt2S64Hd5EcD0KhRX6cAIit4MrsFA8psNc7T3638TBVSa3WXANlhaMY7u1ryK9ekzQZtdpMEr_Jw/s720/Music_TV_P.png" group-title="MUSIC", Music Tv
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHkO5cto6Dc7yCZaYo3nrRBucAX6soNNBiTA3HnZhU4TlLkT508vlYEnHDtrUM0nqLt2S64Hd5EcD0KhRX6cAIit4MrsFA8psNc7T3638TBVSa3WXANlhaMY7u1ryK9ekzQZtdpMEr_Jw/s720/Music_TV_P.png" group-title="MUSIC", Music TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
 https://d1abp075u76pbq.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|Referer=https://www.visionplus.id/
@@ -13335,10 +13335,10 @@ https://v2.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="MUSIC",Stingray Festival
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://dl.dropbox.com/scl/fi/861dv2qloe3jvrmqk4kv7/Imtv.jpeg?rlkey=f9j0x2c8em27a1ktpkzgblerl&dl=0" group-title="MUSIC", IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ii-RdQRHwniMKrQjLR2LBn0r44ovl8i7Kw&usqp=CAU" group-title="MUSIC", IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/0ru3nlrc1dofglcm58404/9xm-india.png?rlkey=ln9ri09hknxocki8b7v375z64&dl=0" group-title="MUSIC", 9XM india
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9scc-YMzlkpBG0inmRt6fcFAICZxC0vlSz80JuKI_xni4VY_P5cuQLf8j&s=10" group-title="MUSIC", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
 ##EXTINF:0 group-title="MUSIC" tvg-logo="https://dl.dropbox.com/scl/fi/elnmr2dh1udkggl5mq7e9/Qwest.jpeg?rlkey=9cnfs10ywhidu3nzmin3nl65k&dl=0", QWEST
