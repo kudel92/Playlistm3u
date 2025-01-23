@@ -10624,7 +10624,7 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210
 
 
 ##EXTINF:-1 group-title="Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0", HBO Hits SD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0", HBO Hits 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
