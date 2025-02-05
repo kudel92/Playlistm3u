@@ -266,7 +266,8 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmfXi7Z-30TxHy_KzCtVsjpX8Vc9GB3-BaA&usqp=CAU", INDOSIAR (BRI LIGA 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+#http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
 
 #EXTINF:-1 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
