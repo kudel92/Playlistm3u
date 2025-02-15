@@ -271,8 +271,8 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-https://gasruktv.my.id/asx/live.mpd?id=17623
-#https://gasruktv.my.id/asx/live.mpd?id=205
+https://gasruktv.my.id/asx/live.mpd?id=205
+#https://gasruktv.my.id/asx/live.mpd?id=17623
 #http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 #http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
