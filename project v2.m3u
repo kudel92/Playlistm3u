@@ -135,11 +135,11 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET TV
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg", MDTV.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
