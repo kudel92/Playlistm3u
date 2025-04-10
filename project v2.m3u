@@ -3110,7 +3110,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 =====SPORTS=====
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 1" tvg-logo="https://dl.dropbox.com/scl/fi/29xcfw9o9m8z7nctgihsk/spotv1.png?rlkey=2oo4x722lorrpyl299h9dujuz&st=qzrys9bh&dl=0" group-title="Sports",SPO TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
