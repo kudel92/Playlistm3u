@@ -3128,6 +3128,11 @@ https://dusk.biz.id/rp/index.mpd?id=119
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 #https://spmid.pw:443/play/GkGM6jSBmCa7M-wN__A44xYg_aKPFWduX_MjVUVfr5o
 
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2" tvg-logo="https://dl.dropbox.com/scl/fi/x7q101m677z0yw3zgpbf0/spotv2.png?rlkey=hz91ima3flb84p3qvfnkm0ghz&st=15iabvnw&dl=0" group-title="Sports",SPO TV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=120
+https://dusk.biz.id/rp/index.mpd?id=120
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYHljpd1WralFrV7bg9xgIfi8lsXdZlpmHPmWRX-5xFu5Un_xRUPgKXFxotOuDOrjIWWDlJYVWUE2LM4rYUeg2REI_R5w55YDtgatLGIib8qbH7-RLe0A5V0KvoAXFBn4zBNstUJuxBc/s720/soccer+channel.png" group-title="Sports",Soccer Channel 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
